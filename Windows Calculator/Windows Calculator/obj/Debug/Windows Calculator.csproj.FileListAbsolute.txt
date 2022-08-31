@@ -1,0 +1,10 @@
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.exe.config
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.exe
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.pdb
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csprojAssemblyReference.cache
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows_Calculator.Form1.resources
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csproj.GenerateResource.cache
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csproj.CoreCompileInputs.cache
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.exe
+C:\Users\herlof14\source\repos\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.pdb
